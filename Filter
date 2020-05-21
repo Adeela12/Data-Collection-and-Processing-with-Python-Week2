@@ -1,0 +1,6 @@
+lst_check = ['plums', 'watermelon', 'kiwi', 'strawberries', 'blueberries', 'peaches', 'apples', 'mangos', 'papaya']
+filter_testing = filter((lambda x: 'w' in x), lst_check)
+<----------------------------------------------------->
+lst = ["witch", "halloween", "pumpkin", "cat", "candy", "wagon", "moon"]
+lst2 = filter((lambda x : 'o' in x), lst)
+<------------------------------------------------------------------------>
